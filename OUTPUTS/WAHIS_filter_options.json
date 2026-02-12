@@ -1,0 +1,2958 @@
+{
+  "country": [
+    {
+      "areaId": 1,
+      "name": "Aruba",
+      "isoCode": "ABW"
+    },
+    {
+      "areaId": 2,
+      "name": "Afghanistan",
+      "isoCode": "AFG"
+    },
+    {
+      "areaId": 3,
+      "name": "Angola",
+      "isoCode": "AGO"
+    },
+    {
+      "areaId": 4,
+      "name": "Anguilla",
+      "isoCode": "AIA"
+    },
+    {
+      "areaId": 5,
+      "name": "Albania",
+      "isoCode": "ALB"
+    },
+    {
+      "areaId": 6,
+      "name": "Andorra",
+      "isoCode": "AND"
+    },
+    {
+      "areaId": 8,
+      "name": "United Arab Emirates",
+      "isoCode": "ARE"
+    },
+    {
+      "areaId": 9,
+      "name": "Argentina",
+      "isoCode": "ARG"
+    },
+    {
+      "areaId": 10,
+      "name": "Armenia",
+      "isoCode": "ARM"
+    },
+    {
+      "areaId": 11,
+      "name": "American Samoa",
+      "isoCode": "ASM"
+    },
+    {
+      "areaId": 12,
+      "name": "Antarctica",
+      "isoCode": "ATA"
+    },
+    {
+      "areaId": 13,
+      "name": "French Southern Territories",
+      "isoCode": "ATF"
+    },
+    {
+      "areaId": 14,
+      "name": "Antigua and Barbuda",
+      "isoCode": "ATG"
+    },
+    {
+      "areaId": 15,
+      "name": "Australia",
+      "isoCode": "AUS"
+    },
+    {
+      "areaId": 16,
+      "name": "Austria",
+      "isoCode": "AUT"
+    },
+    {
+      "areaId": 17,
+      "name": "Azerbaijan",
+      "isoCode": "AZE"
+    },
+    {
+      "areaId": 18,
+      "name": "Burundi",
+      "isoCode": "BDI"
+    },
+    {
+      "areaId": 19,
+      "name": "Belgium",
+      "isoCode": "BEL"
+    },
+    {
+      "areaId": 20,
+      "name": "Benin",
+      "isoCode": "BEN"
+    },
+    {
+      "areaId": 21,
+      "name": "Burkina Faso",
+      "isoCode": "BFA"
+    },
+    {
+      "areaId": 22,
+      "name": "Bangladesh",
+      "isoCode": "BGD"
+    },
+    {
+      "areaId": 23,
+      "name": "Bulgaria",
+      "isoCode": "BGR"
+    },
+    {
+      "areaId": 24,
+      "name": "Bahrain",
+      "isoCode": "BHR"
+    },
+    {
+      "areaId": 25,
+      "name": "Bahamas",
+      "isoCode": "BHS"
+    },
+    {
+      "areaId": 26,
+      "name": "Bosnia and Herzegovina",
+      "isoCode": "BIH"
+    },
+    {
+      "areaId": 27,
+      "name": "Belarus",
+      "isoCode": "BLR"
+    },
+    {
+      "areaId": 28,
+      "name": "Belize",
+      "isoCode": "BLZ"
+    },
+    {
+      "areaId": 29,
+      "name": "Bermuda",
+      "isoCode": "BMU"
+    },
+    {
+      "areaId": 30,
+      "name": "Bolivia",
+      "isoCode": "BOL"
+    },
+    {
+      "areaId": 31,
+      "name": "Brazil",
+      "isoCode": "BRA"
+    },
+    {
+      "areaId": 32,
+      "name": "Barbados",
+      "isoCode": "BRB"
+    },
+    {
+      "areaId": 33,
+      "name": "Brunei",
+      "isoCode": "BRN"
+    },
+    {
+      "areaId": 34,
+      "name": "Bhutan",
+      "isoCode": "BTN"
+    },
+    {
+      "areaId": 35,
+      "name": "Bouvet Island",
+      "isoCode": "BVT"
+    },
+    {
+      "areaId": 36,
+      "name": "Botswana",
+      "isoCode": "BWA"
+    },
+    {
+      "areaId": 37,
+      "name": "Central African (Rep.)",
+      "isoCode": "CAF"
+    },
+    {
+      "areaId": 38,
+      "name": "Canada",
+      "isoCode": "CAN"
+    },
+    {
+      "areaId": 39,
+      "name": "Cocos (Keeling) Islands",
+      "isoCode": "CCK"
+    },
+    {
+      "areaId": 40,
+      "name": "Ceuta",
+      "isoCode": "CEU"
+    },
+    {
+      "areaId": 41,
+      "name": "Switzerland",
+      "isoCode": "CHE"
+    },
+    {
+      "areaId": 42,
+      "name": "Chile",
+      "isoCode": "CHL"
+    },
+    {
+      "areaId": 43,
+      "name": "China (People's Rep. of)",
+      "isoCode": "CHN"
+    },
+    {
+      "areaId": 44,
+      "name": "Cote D'Ivoire",
+      "isoCode": "CIV"
+    },
+    {
+      "areaId": 45,
+      "name": "Cameroon",
+      "isoCode": "CMR"
+    },
+    {
+      "areaId": 46,
+      "name": "Congo (Dem. Rep. of the)",
+      "isoCode": "COD"
+    },
+    {
+      "areaId": 47,
+      "name": "Congo (Rep. of the)",
+      "isoCode": "COG"
+    },
+    {
+      "areaId": 48,
+      "name": "Cook Islands",
+      "isoCode": "COK"
+    },
+    {
+      "areaId": 49,
+      "name": "Colombia",
+      "isoCode": "COL"
+    },
+    {
+      "areaId": 50,
+      "name": "Comoros",
+      "isoCode": "COM"
+    },
+    {
+      "areaId": 51,
+      "name": "Cabo verde",
+      "isoCode": "CPV"
+    },
+    {
+      "areaId": 52,
+      "name": "Costa Rica",
+      "isoCode": "CRI"
+    },
+    {
+      "areaId": 53,
+      "name": "Cuba",
+      "isoCode": "CUB"
+    },
+    {
+      "areaId": 54,
+      "name": "Cura\u00e7ao",
+      "isoCode": "CUW"
+    },
+    {
+      "areaId": 55,
+      "name": "Christmas Island",
+      "isoCode": "CXR"
+    },
+    {
+      "areaId": 56,
+      "name": "Cayman Islands",
+      "isoCode": "CYM"
+    },
+    {
+      "areaId": 57,
+      "name": "Cyprus",
+      "isoCode": "CYP"
+    },
+    {
+      "areaId": 58,
+      "name": "Czech Republic",
+      "isoCode": "CZE"
+    },
+    {
+      "areaId": 59,
+      "name": "Germany",
+      "isoCode": "DEU"
+    },
+    {
+      "areaId": 60,
+      "name": "Djibouti",
+      "isoCode": "DJI"
+    },
+    {
+      "areaId": 61,
+      "name": "Dominica",
+      "isoCode": "DMA"
+    },
+    {
+      "areaId": 62,
+      "name": "Denmark",
+      "isoCode": "DNK"
+    },
+    {
+      "areaId": 63,
+      "name": "Dominican (Rep.)",
+      "isoCode": "DOM"
+    },
+    {
+      "areaId": 64,
+      "name": "Algeria",
+      "isoCode": "DZA"
+    },
+    {
+      "areaId": 65,
+      "name": "Ecuador",
+      "isoCode": "ECU"
+    },
+    {
+      "areaId": 66,
+      "name": "Egypt",
+      "isoCode": "EGY"
+    },
+    {
+      "areaId": 67,
+      "name": "Eritrea",
+      "isoCode": "ERI"
+    },
+    {
+      "areaId": 68,
+      "name": "Western Sahara",
+      "isoCode": "ESH"
+    },
+    {
+      "areaId": 69,
+      "name": "Spain",
+      "isoCode": "ESP"
+    },
+    {
+      "areaId": 70,
+      "name": "Estonia",
+      "isoCode": "EST"
+    },
+    {
+      "areaId": 71,
+      "name": "Ethiopia",
+      "isoCode": "ETH"
+    },
+    {
+      "areaId": 72,
+      "name": "Finland",
+      "isoCode": "FIN"
+    },
+    {
+      "areaId": 73,
+      "name": "Fiji",
+      "isoCode": "FJI"
+    },
+    {
+      "areaId": 74,
+      "name": "Falkland Islands (Malvinas)",
+      "isoCode": "FLK"
+    },
+    {
+      "areaId": 75,
+      "name": "France",
+      "isoCode": "FRA"
+    },
+    {
+      "areaId": 76,
+      "name": "Faeroe Islands",
+      "isoCode": "FRO"
+    },
+    {
+      "areaId": 77,
+      "name": "Micronesia (Federated States of)",
+      "isoCode": "FSM"
+    },
+    {
+      "areaId": 78,
+      "name": "Gabon",
+      "isoCode": "GAB"
+    },
+    {
+      "areaId": 79,
+      "name": "United Kingdom",
+      "isoCode": "GBR"
+    },
+    {
+      "areaId": 87,
+      "name": "Georgia",
+      "isoCode": "GEO"
+    },
+    {
+      "areaId": 88,
+      "name": "Ghana",
+      "isoCode": "GHA"
+    },
+    {
+      "areaId": 89,
+      "name": "Gibraltar",
+      "isoCode": "GIB"
+    },
+    {
+      "areaId": 197,
+      "name": "Serbia and Montenegro",
+      "isoCode": "SCG"
+    },
+    {
+      "areaId": 92,
+      "name": "Gambia",
+      "isoCode": "GMB"
+    },
+    {
+      "areaId": 93,
+      "name": "Guinea-Bissau",
+      "isoCode": "GNB"
+    },
+    {
+      "areaId": 94,
+      "name": "Equatorial Guinea",
+      "isoCode": "GNQ"
+    },
+    {
+      "areaId": 95,
+      "name": "Greece",
+      "isoCode": "GRC"
+    },
+    {
+      "areaId": 96,
+      "name": "Grenada",
+      "isoCode": "GRD"
+    },
+    {
+      "areaId": 97,
+      "name": "Greenland",
+      "isoCode": "GRL"
+    },
+    {
+      "areaId": 98,
+      "name": "Guatemala",
+      "isoCode": "GTM"
+    },
+    {
+      "areaId": 99,
+      "name": "French Guiana",
+      "isoCode": "GUF"
+    },
+    {
+      "areaId": 100,
+      "name": "Guam",
+      "isoCode": "GUM"
+    },
+    {
+      "areaId": 101,
+      "name": "Guyana",
+      "isoCode": "GUY"
+    },
+    {
+      "areaId": 102,
+      "name": "Hong Kong",
+      "isoCode": "HKG"
+    },
+    {
+      "areaId": 103,
+      "name": "Heard and McDonald Islands",
+      "isoCode": "HMD"
+    },
+    {
+      "areaId": 104,
+      "name": "Honduras",
+      "isoCode": "HND"
+    },
+    {
+      "areaId": 106,
+      "name": "Haiti",
+      "isoCode": "HTI"
+    },
+    {
+      "areaId": 107,
+      "name": "Hungary",
+      "isoCode": "HUN"
+    },
+    {
+      "areaId": 108,
+      "name": "Indonesia",
+      "isoCode": "IDN"
+    },
+    {
+      "areaId": 109,
+      "name": "India",
+      "isoCode": "IND"
+    },
+    {
+      "areaId": 110,
+      "name": "British Indian Ocean Territory",
+      "isoCode": "IOT"
+    },
+    {
+      "areaId": 111,
+      "name": "Ireland",
+      "isoCode": "IRL"
+    },
+    {
+      "areaId": 112,
+      "name": "Iran",
+      "isoCode": "IRN"
+    },
+    {
+      "areaId": 113,
+      "name": "Iraq",
+      "isoCode": "IRQ"
+    },
+    {
+      "areaId": 114,
+      "name": "Iceland",
+      "isoCode": "ISL"
+    },
+    {
+      "areaId": 115,
+      "name": "Israel",
+      "isoCode": "ISR"
+    },
+    {
+      "areaId": 116,
+      "name": "Italy",
+      "isoCode": "ITA"
+    },
+    {
+      "areaId": 117,
+      "name": "Jamaica",
+      "isoCode": "JAM"
+    },
+    {
+      "areaId": 118,
+      "name": "Jordan",
+      "isoCode": "JOR"
+    },
+    {
+      "areaId": 119,
+      "name": "Japan",
+      "isoCode": "JPN"
+    },
+    {
+      "areaId": 171,
+      "name": "Norway",
+      "isoCode": "NOR"
+    },
+    {
+      "areaId": 120,
+      "name": "Kazakhstan",
+      "isoCode": "KAZ"
+    },
+    {
+      "areaId": 121,
+      "name": "Kenya",
+      "isoCode": "KEN"
+    },
+    {
+      "areaId": 122,
+      "name": "Kyrgyzstan",
+      "isoCode": "KGZ"
+    },
+    {
+      "areaId": 123,
+      "name": "Cambodia",
+      "isoCode": "KHM"
+    },
+    {
+      "areaId": 124,
+      "name": "Kiribati",
+      "isoCode": "KIR"
+    },
+    {
+      "areaId": 125,
+      "name": "St. Kitts and Nevis",
+      "isoCode": "KNA"
+    },
+    {
+      "areaId": 126,
+      "name": "Korea (Rep. of)",
+      "isoCode": "KOR"
+    },
+    {
+      "areaId": 127,
+      "name": "Kuwait",
+      "isoCode": "KWT"
+    },
+    {
+      "areaId": 128,
+      "name": "Laos",
+      "isoCode": "LAO"
+    },
+    {
+      "areaId": 129,
+      "name": "Lebanon",
+      "isoCode": "LBN"
+    },
+    {
+      "areaId": 130,
+      "name": "Liberia",
+      "isoCode": "LBR"
+    },
+    {
+      "areaId": 131,
+      "name": "Libya",
+      "isoCode": "LBY"
+    },
+    {
+      "areaId": 132,
+      "name": "St. Lucia",
+      "isoCode": "LCA"
+    },
+    {
+      "areaId": 133,
+      "name": "Liechtenstein",
+      "isoCode": "LIE"
+    },
+    {
+      "areaId": 134,
+      "name": "Sri Lanka",
+      "isoCode": "LKA"
+    },
+    {
+      "areaId": 135,
+      "name": "Lesotho",
+      "isoCode": "LSO"
+    },
+    {
+      "areaId": 136,
+      "name": "Lithuania",
+      "isoCode": "LTU"
+    },
+    {
+      "areaId": 137,
+      "name": "Luxembourg",
+      "isoCode": "LUX"
+    },
+    {
+      "areaId": 138,
+      "name": "Latvia",
+      "isoCode": "LVA"
+    },
+    {
+      "areaId": 139,
+      "name": "Macao",
+      "isoCode": "MAC"
+    },
+    {
+      "areaId": 140,
+      "name": "Morocco",
+      "isoCode": "MAR"
+    },
+    {
+      "areaId": 141,
+      "name": "Monaco",
+      "isoCode": "MCO"
+    },
+    {
+      "areaId": 142,
+      "name": "Moldova",
+      "isoCode": "MDA"
+    },
+    {
+      "areaId": 143,
+      "name": "Madagascar",
+      "isoCode": "MDG"
+    },
+    {
+      "areaId": 144,
+      "name": "Maldives",
+      "isoCode": "MDV"
+    },
+    {
+      "areaId": 145,
+      "name": "Melilla",
+      "isoCode": "MEL"
+    },
+    {
+      "areaId": 146,
+      "name": "Mexico",
+      "isoCode": "MEX"
+    },
+    {
+      "areaId": 147,
+      "name": "Marshall Islands",
+      "isoCode": "MHL"
+    },
+    {
+      "areaId": 148,
+      "name": "North Macedonia",
+      "isoCode": "MKD"
+    },
+    {
+      "areaId": 149,
+      "name": "Mali",
+      "isoCode": "MLI"
+    },
+    {
+      "areaId": 150,
+      "name": "Malta",
+      "isoCode": "MLT"
+    },
+    {
+      "areaId": 151,
+      "name": "Myanmar",
+      "isoCode": "MMR"
+    },
+    {
+      "areaId": 152,
+      "name": "Montenegro",
+      "isoCode": "MNE"
+    },
+    {
+      "areaId": 153,
+      "name": "Mongolia",
+      "isoCode": "MNG"
+    },
+    {
+      "areaId": 154,
+      "name": "Northern Mariana Islands",
+      "isoCode": "MNP"
+    },
+    {
+      "areaId": 155,
+      "name": "Mozambique",
+      "isoCode": "MOZ"
+    },
+    {
+      "areaId": 156,
+      "name": "Mauritania",
+      "isoCode": "MRT"
+    },
+    {
+      "areaId": 157,
+      "name": "Montserrat",
+      "isoCode": "MSR"
+    },
+    {
+      "areaId": 158,
+      "name": "Martinique",
+      "isoCode": "MTQ"
+    },
+    {
+      "areaId": 159,
+      "name": "Mauritius",
+      "isoCode": "MUS"
+    },
+    {
+      "areaId": 160,
+      "name": "Malawi",
+      "isoCode": "MWI"
+    },
+    {
+      "areaId": 161,
+      "name": "Malaysia",
+      "isoCode": "MYS"
+    },
+    {
+      "areaId": 162,
+      "name": "Mayotte",
+      "isoCode": "MYT"
+    },
+    {
+      "areaId": 163,
+      "name": "Namibia",
+      "isoCode": "NAM"
+    },
+    {
+      "areaId": 164,
+      "name": "New Caledonia",
+      "isoCode": "NCL"
+    },
+    {
+      "areaId": 165,
+      "name": "Niger",
+      "isoCode": "NER"
+    },
+    {
+      "areaId": 166,
+      "name": "Norfolk Island",
+      "isoCode": "NFK"
+    },
+    {
+      "areaId": 167,
+      "name": "Nigeria",
+      "isoCode": "NGA"
+    },
+    {
+      "areaId": 168,
+      "name": "Nicaragua",
+      "isoCode": "NIC"
+    },
+    {
+      "areaId": 169,
+      "name": "Niue",
+      "isoCode": "NIU"
+    },
+    {
+      "areaId": 170,
+      "name": "Netherlands",
+      "isoCode": "NLD"
+    },
+    {
+      "areaId": 172,
+      "name": "Nepal",
+      "isoCode": "NPL"
+    },
+    {
+      "areaId": 173,
+      "name": "Nauru",
+      "isoCode": "NRU"
+    },
+    {
+      "areaId": 174,
+      "name": "New Zealand",
+      "isoCode": "NZL"
+    },
+    {
+      "areaId": 175,
+      "name": "OIE Test Country",
+      "isoCode": "OIE"
+    },
+    {
+      "areaId": 176,
+      "name": "Oman",
+      "isoCode": "OMN"
+    },
+    {
+      "areaId": 177,
+      "name": "Pakistan",
+      "isoCode": "PAK"
+    },
+    {
+      "areaId": 178,
+      "name": "Panama",
+      "isoCode": "PAN"
+    },
+    {
+      "areaId": 179,
+      "name": "Pitcairn Island",
+      "isoCode": "PCN"
+    },
+    {
+      "areaId": 180,
+      "name": "Peru",
+      "isoCode": "PER"
+    },
+    {
+      "areaId": 181,
+      "name": "Philippines",
+      "isoCode": "PHL"
+    },
+    {
+      "areaId": 182,
+      "name": "Palau",
+      "isoCode": "PLW"
+    },
+    {
+      "areaId": 183,
+      "name": "Papua New Guinea",
+      "isoCode": "PNG"
+    },
+    {
+      "areaId": 185,
+      "name": "Puerto Rico",
+      "isoCode": "PRI"
+    },
+    {
+      "areaId": 186,
+      "name": "Korea (Dem People's Rep. of)",
+      "isoCode": "PRK"
+    },
+    {
+      "areaId": 187,
+      "name": "Portugal",
+      "isoCode": "PRT"
+    },
+    {
+      "areaId": 188,
+      "name": "Paraguay",
+      "isoCode": "PRY"
+    },
+    {
+      "areaId": 190,
+      "name": "French Polynesia",
+      "isoCode": "PYF"
+    },
+    {
+      "areaId": 191,
+      "name": "Qatar",
+      "isoCode": "QAT"
+    },
+    {
+      "areaId": 192,
+      "name": "Reunion",
+      "isoCode": "REU"
+    },
+    {
+      "areaId": 193,
+      "name": "Romania",
+      "isoCode": "ROU"
+    },
+    {
+      "areaId": 194,
+      "name": "Russia",
+      "isoCode": "RUS"
+    },
+    {
+      "areaId": 195,
+      "name": "Rwanda",
+      "isoCode": "RWA"
+    },
+    {
+      "areaId": 196,
+      "name": "Saudi Arabia",
+      "isoCode": "SAU"
+    },
+    {
+      "areaId": 198,
+      "name": "Sudan",
+      "isoCode": "SDN"
+    },
+    {
+      "areaId": 199,
+      "name": "Senegal",
+      "isoCode": "SEN"
+    },
+    {
+      "areaId": 200,
+      "name": "Singapore",
+      "isoCode": "SGP"
+    },
+    {
+      "areaId": 201,
+      "name": "South Georgia and the South Sandwich Islands",
+      "isoCode": "SGS"
+    },
+    {
+      "areaId": 202,
+      "name": "St. Helena",
+      "isoCode": "SHN"
+    },
+    {
+      "areaId": 203,
+      "name": "Svalbard & Jan Mayen Islands",
+      "isoCode": "SJM"
+    },
+    {
+      "areaId": 204,
+      "name": "Solomon Islands",
+      "isoCode": "SLB"
+    },
+    {
+      "areaId": 205,
+      "name": "Sierra Leone",
+      "isoCode": "SLE"
+    },
+    {
+      "areaId": 206,
+      "name": "El Salvador",
+      "isoCode": "SLV"
+    },
+    {
+      "areaId": 207,
+      "name": "San Marino",
+      "isoCode": "SMR"
+    },
+    {
+      "areaId": 208,
+      "name": "Somalia",
+      "isoCode": "SOM"
+    },
+    {
+      "areaId": 209,
+      "name": "St. Pierre and Miquelon",
+      "isoCode": "SPM"
+    },
+    {
+      "areaId": 210,
+      "name": "Serbia",
+      "isoCode": "SRB"
+    },
+    {
+      "areaId": 211,
+      "name": "South Sudan (Rep. of)",
+      "isoCode": "SSD"
+    },
+    {
+      "areaId": 212,
+      "name": "Sao Tome and Principe",
+      "isoCode": "STP"
+    },
+    {
+      "areaId": 213,
+      "name": "Suriname",
+      "isoCode": "SUR"
+    },
+    {
+      "areaId": 214,
+      "name": "Slovakia",
+      "isoCode": "SVK"
+    },
+    {
+      "areaId": 215,
+      "name": "Slovenia",
+      "isoCode": "SVN"
+    },
+    {
+      "areaId": 216,
+      "name": "Sweden",
+      "isoCode": "SWE"
+    },
+    {
+      "areaId": 217,
+      "name": "Eswatini",
+      "isoCode": "SWZ"
+    },
+    {
+      "areaId": 218,
+      "name": "Seychelles",
+      "isoCode": "SYC"
+    },
+    {
+      "areaId": 219,
+      "name": "Syria",
+      "isoCode": "SYR"
+    },
+    {
+      "areaId": 220,
+      "name": "Turks and Caicos Islands",
+      "isoCode": "TCA"
+    },
+    {
+      "areaId": 221,
+      "name": "Chad",
+      "isoCode": "TCD"
+    },
+    {
+      "areaId": 222,
+      "name": "Togo",
+      "isoCode": "TGO"
+    },
+    {
+      "areaId": 223,
+      "name": "Thailand",
+      "isoCode": "THA"
+    },
+    {
+      "areaId": 224,
+      "name": "Tajikistan",
+      "isoCode": "TJK"
+    },
+    {
+      "areaId": 225,
+      "name": "Tokelau",
+      "isoCode": "TKL"
+    },
+    {
+      "areaId": 226,
+      "name": "Turkmenistan",
+      "isoCode": "TKM"
+    },
+    {
+      "areaId": 227,
+      "name": "Timor-Leste",
+      "isoCode": "TLS"
+    },
+    {
+      "areaId": 228,
+      "name": "Tonga",
+      "isoCode": "TON"
+    },
+    {
+      "areaId": 229,
+      "name": "Trinidad and Tobago",
+      "isoCode": "TTO"
+    },
+    {
+      "areaId": 230,
+      "name": "Tunisia",
+      "isoCode": "TUN"
+    },
+    {
+      "areaId": 231,
+      "name": "T\u00fcrkiye (Rep. of)",
+      "isoCode": "TUR"
+    },
+    {
+      "areaId": 232,
+      "name": "Tuvalu",
+      "isoCode": "TUV"
+    },
+    {
+      "areaId": 233,
+      "name": "Chinese Taipei",
+      "isoCode": "TWN"
+    },
+    {
+      "areaId": 234,
+      "name": "Tanzania",
+      "isoCode": "TZA"
+    },
+    {
+      "areaId": 236,
+      "name": "Ukraine",
+      "isoCode": "UKR"
+    },
+    {
+      "areaId": 237,
+      "name": "United States Minor Outlying Islands",
+      "isoCode": "UMI"
+    },
+    {
+      "areaId": 238,
+      "name": "Uruguay",
+      "isoCode": "URY"
+    },
+    {
+      "areaId": 239,
+      "name": "United States of America",
+      "isoCode": "USA"
+    },
+    {
+      "areaId": 240,
+      "name": "Uzbekistan",
+      "isoCode": "UZB"
+    },
+    {
+      "areaId": 241,
+      "name": "Vatican City",
+      "isoCode": "VAT"
+    },
+    {
+      "areaId": 243,
+      "name": "Venezuela",
+      "isoCode": "VEN"
+    },
+    {
+      "areaId": 244,
+      "name": "British Virgin Islands",
+      "isoCode": "VGB"
+    },
+    {
+      "areaId": 245,
+      "name": "US Virgin Islands",
+      "isoCode": "VIR"
+    },
+    {
+      "areaId": 247,
+      "name": "Vanuatu",
+      "isoCode": "VUT"
+    },
+    {
+      "areaId": 248,
+      "name": "Wallis and Futuna Islands",
+      "isoCode": "WLF"
+    },
+    {
+      "areaId": 249,
+      "name": "Samoa",
+      "isoCode": "WSM"
+    },
+    {
+      "areaId": 250,
+      "name": "Yemen",
+      "isoCode": "YEM"
+    },
+    {
+      "areaId": 251,
+      "name": "South Africa",
+      "isoCode": "ZAF"
+    },
+    {
+      "areaId": 252,
+      "name": "Zambia",
+      "isoCode": "ZMB"
+    },
+    {
+      "areaId": 253,
+      "name": "Zimbabwe",
+      "isoCode": "ZWE"
+    },
+    {
+      "areaId": 184,
+      "name": "Poland",
+      "isoCode": "POL"
+    },
+    {
+      "areaId": 235,
+      "name": "Uganda",
+      "isoCode": "UGA"
+    },
+    {
+      "areaId": 246,
+      "name": "Vietnam",
+      "isoCode": "VNM"
+    },
+    {
+      "areaId": 105,
+      "name": "Croatia",
+      "isoCode": "HRV"
+    },
+    {
+      "areaId": 90,
+      "name": "Guinea",
+      "isoCode": "GIN"
+    },
+    {
+      "areaId": 189,
+      "name": "Palestine",
+      "isoCode": "PSE"
+    },
+    {
+      "areaId": 242,
+      "name": "Saint Vincent and the Grenadines",
+      "isoCode": "VCT"
+    },
+    {
+      "areaId": 91,
+      "name": "Guadeloupe",
+      "isoCode": "GLP"
+    }
+  ],
+  "region": [
+    {
+      "id": 6,
+      "name": "Other",
+      "countryIds": [
+        12,
+        175
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Middle East",
+      "countryIds": [
+        2,
+        8,
+        24,
+        57,
+        60,
+        66,
+        112,
+        113,
+        118,
+        127,
+        129,
+        131,
+        176,
+        191,
+        196,
+        198,
+        208,
+        219,
+        231,
+        250
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Europe",
+      "countryIds": [
+        5,
+        6,
+        16,
+        27,
+        19,
+        26,
+        23,
+        105,
+        58,
+        62,
+        70,
+        76,
+        72,
+        148,
+        75,
+        59,
+        89,
+        95,
+        107,
+        114,
+        111,
+        116,
+        138,
+        133,
+        136,
+        137,
+        150,
+        142,
+        141,
+        152,
+        170,
+        171,
+        184,
+        187,
+        193,
+        194,
+        207,
+        210,
+        214,
+        215,
+        69,
+        203,
+        216,
+        41,
+        236,
+        79,
+        241,
+        57
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Asia",
+      "countryIds": [
+        2,
+        10,
+        17,
+        24,
+        22,
+        34,
+        33,
+        123,
+        43,
+        233,
+        87,
+        102,
+        109,
+        108,
+        112,
+        113,
+        115,
+        119,
+        118,
+        120,
+        186,
+        126,
+        127,
+        122,
+        128,
+        129,
+        139,
+        161,
+        144,
+        153,
+        151,
+        172,
+        176,
+        177,
+        189,
+        181,
+        191,
+        196,
+        200,
+        134,
+        219,
+        224,
+        223,
+        227,
+        231,
+        226,
+        8,
+        240,
+        246,
+        250
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Americas",
+      "countryIds": [
+        4,
+        14,
+        9,
+        1,
+        25,
+        32,
+        28,
+        29,
+        30,
+        35,
+        31,
+        244,
+        38,
+        56,
+        42,
+        49,
+        52,
+        53,
+        54,
+        61,
+        63,
+        65,
+        206,
+        74,
+        99,
+        97,
+        96,
+        91,
+        98,
+        101,
+        106,
+        104,
+        117,
+        158,
+        146,
+        157,
+        168,
+        178,
+        188,
+        180,
+        185,
+        201,
+        125,
+        132,
+        209,
+        242,
+        213,
+        229,
+        220,
+        239,
+        238,
+        245,
+        243
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Oceania",
+      "countryIds": [
+        11,
+        15,
+        55,
+        39,
+        48,
+        73,
+        190,
+        100,
+        103,
+        124,
+        147,
+        77,
+        173,
+        164,
+        174,
+        169,
+        166,
+        154,
+        182,
+        183,
+        179,
+        249,
+        204,
+        225,
+        228,
+        232,
+        237,
+        247,
+        248
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Africa",
+      "countryIds": [
+        3,
+        13,
+        18,
+        20,
+        21,
+        36,
+        37,
+        40,
+        44,
+        45,
+        46,
+        47,
+        50,
+        51,
+        60,
+        64,
+        66,
+        67,
+        68,
+        71,
+        78,
+        88,
+        92,
+        93,
+        94,
+        110,
+        121,
+        130,
+        131,
+        135,
+        140,
+        143,
+        145,
+        149,
+        155,
+        156,
+        159,
+        160,
+        162,
+        163,
+        165,
+        167,
+        192,
+        195,
+        198,
+        199,
+        202,
+        205,
+        208,
+        211,
+        212,
+        217,
+        218,
+        221,
+        222,
+        230,
+        234,
+        251,
+        252,
+        253,
+        235,
+        90
+      ]
+    }
+  ],
+  "diseases": [
+    {
+      "ids": [
+        97
+      ],
+      "name": "Caprine arthritis/encephalitis "
+    },
+    {
+      "ids": [
+        804
+      ],
+      "name": "Paratuberculosis "
+    },
+    {
+      "ids": [
+        916
+      ],
+      "name": "Megalocytivirus pagrus 1 (Inf. with) (2025-)"
+    },
+    {
+      "ids": [
+        664
+      ],
+      "name": "Haemorrhagic septicaemia (Pasteurella multocida serotypes 6:b and 6:e)"
+    },
+    {
+      "ids": [
+        786
+      ],
+      "name": "Newcastle disease virus (Inf. with) "
+    },
+    {
+      "ids": [
+        769
+      ],
+      "name": "Lumpy skin disease virus (Inf. with) "
+    },
+    {
+      "ids": [
+        684
+      ],
+      "name": "Batrachochytrium dendrobatidis (Inf. with)(2009-)"
+    },
+    {
+      "ids": [
+        60
+      ],
+      "name": "Anthrax "
+    },
+    {
+      "ids": [
+        666
+      ],
+      "name": "Heartwater "
+    },
+    {
+      "ids": [
+        441
+      ],
+      "name": "Fowl typhoid "
+    },
+    {
+      "ids": [
+        429
+      ],
+      "name": "Equine arteritis virus (Inf. with)"
+    },
+    {
+      "ids": [
+        104
+      ],
+      "name": "Contagious agalactia "
+    },
+    {
+      "ids": [
+        700
+      ],
+      "name": "Gyrodactylus salaris (Inf. with)"
+    },
+    {
+      "ids": [
+        431
+      ],
+      "name": "Melissococcus plutonius (Inf. of honey bees with) (European foulbrood) "
+    },
+    {
+      "ids": [
+        437
+      ],
+      "name": "Foot and mouth disease virus (Inf. with) "
+    },
+    {
+      "ids": [
+        822
+      ],
+      "name": "Pullorum disease "
+    },
+    {
+      "ids": [
+        871
+      ],
+      "name": "Venezuelan equine encephalomyelitis"
+    },
+    {
+      "ids": [
+        64
+      ],
+      "name": "Aujeszky's disease virus (Inf. with) "
+    },
+    {
+      "ids": [
+        671
+      ],
+      "name": "Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-)"
+    },
+    {
+      "ids": [
+        67
+      ],
+      "name": "Avian infectious bronchitis"
+    },
+    {
+      "ids": [
+        850
+      ],
+      "name": "Taura syndrome virus (Inf. with)"
+    },
+    {
+      "ids": [
+        419
+      ],
+      "name": "Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)"
+    },
+    {
+      "ids": [
+        54
+      ],
+      "name": "African horse sickness virus (Inf. with) "
+    },
+    {
+      "ids": [
+        852
+      ],
+      "name": "Theileria annulata, Theileria orientalis and Theileria parva (Inf. with)"
+    },
+    {
+      "ids": [
+        52
+      ],
+      "name": "Acute hepatopancreatic necrosis disease (2016-)"
+    },
+    {
+      "ids": [
+        740
+      ],
+      "name": "Xenohaliotis californiensis (Inf. with)"
+    },
+    {
+      "ids": [
+        417
+      ],
+      "name": "Epizootic hemorrhagic disease virus (Inf. with) "
+    },
+    {
+      "ids": [
+        427
+      ],
+      "name": "Theileria equi and Babesia caballi (Inf. with) (Equine piroplasmosis)"
+    },
+    {
+      "ids": [
+        442
+      ],
+      "name": "Burkholderia mallei (Inf. with) (Glanders)"
+    },
+    {
+      "ids": [
+        118
+      ],
+      "name": "Trypanosoma equiperdum (Inf. with) (Dourine)"
+    },
+    {
+      "ids": [
+        65
+      ],
+      "name": "Avian chlamydiosis "
+    },
+    {
+      "ids": [
+        680
+      ],
+      "name": "Infectious haematopoietic necrosis virus (Inf. with)"
+    },
+    {
+      "ids": [
+        831
+      ],
+      "name": "Rift Valley fever virus (Inf. with) "
+    },
+    {
+      "ids": [
+        842
+      ],
+      "name": "Aethina tumida (Inf. with)(Small hive beetle)(2006-)"
+    },
+    {
+      "ids": [
+        688
+      ],
+      "name": "Bonamia ostreae (Inf. with)"
+    },
+    {
+      "ids": [
+        106
+      ],
+      "name": "Contagious caprine pleuropneumonia "
+    },
+    {
+      "ids": [
+        805
+      ],
+      "name": "Peste des petits ruminants virus (Inf. with) "
+    },
+    {
+      "ids": [
+        81
+      ],
+      "name": "Bluetongue virus (Inf. with) "
+    },
+    {
+      "ids": [
+        50
+      ],
+      "name": "Acarapis woodi (Inf. of honey bees with)"
+    },
+    {
+      "ids": [
+        668
+      ],
+      "name": "High pathogenicity avian influenza viruses (Inf. with) (poultry)"
+    },
+    {
+      "ids": [
+        792
+      ],
+      "name": "Cochliomyia hominivorax (Inf. with) (New world screwworm)"
+    },
+    {
+      "ids": [
+        102
+      ],
+      "name": "Classical swine fever virus (Inf. with) "
+    },
+    {
+      "ids": [
+        420
+      ],
+      "name": "Equid herpesvirus-1 (Inf. with) (Equine rhinopneumonitis) (2014-)"
+    },
+    {
+      "ids": [
+        59
+      ],
+      "name": "Paenibacillus larvae (Inf. of honey bees with) (American foulbrood)"
+    },
+    {
+      "ids": [
+        682
+      ],
+      "name": "Abalone herpesvirus (Inf. with)"
+    },
+    {
+      "ids": [
+        861
+      ],
+      "name": "Tropilaelaps spp. (Inf. of honey bees with) "
+    },
+    {
+      "ids": [
+        820
+      ],
+      "name": "Porcine reproductive and respiratory syndrome virus (Inf. with)"
+    },
+    {
+      "ids": [
+        55
+      ],
+      "name": "African swine fever virus (Inf. with) "
+    },
+    {
+      "ids": [
+        745
+      ],
+      "name": "Infectious hypodermal and haematopoietic necrosis virus (Inf. with)"
+    },
+    {
+      "ids": [
+        82
+      ],
+      "name": "Brucella melitensis (Inf. with) "
+    },
+    {
+      "ids": [
+        415
+      ],
+      "name": "Enzootic bovine leukosis "
+    },
+    {
+      "ids": [
+        845
+      ],
+      "name": "Spring viraemia of carp virus (Inf. with)"
+    },
+    {
+      "ids": [
+        726
+      ],
+      "name": "Perkinsus olseni (Inf. with)(2006-)"
+    },
+    {
+      "ids": [
+        818
+      ],
+      "name": "Taenia solium (Inf. with) (Porcine cysticercosis)"
+    },
+    {
+      "ids": [
+        865
+      ],
+      "name": "Turkey rhinotracheitis (2006-)"
+    },
+    {
+      "ids": [
+        799
+      ],
+      "name": "Ovine epididymitis (Brucella ovis) "
+    },
+    {
+      "ids": [
+        126
+      ],
+      "name": "Echinococcus granulosus (Inf. with) (2014-)"
+    },
+    {
+      "ids": [
+        880
+      ],
+      "name": "Macrobrachium rosenbergii nodavirus (Inf. with) (White tail disease) (2008-)"
+    },
+    {
+      "ids": [
+        681
+      ],
+      "name": "Yellow head virus genotype 1 (Inf. with) (2019-)"
+    },
+    {
+      "ids": [
+        825
+      ],
+      "name": "Rabies virus (Inf. with) "
+    },
+    {
+      "ids": [
+        127
+      ],
+      "name": "Echinococcus multilocularis (Inf. with) (2014-)"
+    },
+    {
+      "ids": [
+        424
+      ],
+      "name": "Equine infectious anaemia "
+    },
+    {
+      "ids": [
+        93
+      ],
+      "name": "Brucella suis (Inf. with)"
+    },
+    {
+      "ids": [
+        77
+      ],
+      "name": "Brucella abortus (Inf. with) "
+    },
+    {
+      "ids": [
+        760
+      ],
+      "name": "Japanese encephalitis"
+    },
+    {
+      "ids": [
+        857
+      ],
+      "name": "Trichinella spp. (Inf. with) "
+    },
+    {
+      "ids": [
+        801
+      ],
+      "name": "Chrysomya bezziana (Inf. with) (Old world screwworm)"
+    },
+    {
+      "ids": [
+        679
+      ],
+      "name": "Infectious bursal disease (Gumboro disease) "
+    },
+    {
+      "ids": [
+        847
+      ],
+      "name": "Trypanosoma evansi (Inf. with) (Surra)"
+    },
+    {
+      "ids": [
+        860
+      ],
+      "name": "Trichomonosis "
+    },
+    {
+      "ids": [
+        783
+      ],
+      "name": "Myxomatosis "
+    },
+    {
+      "ids": [
+        785
+      ],
+      "name": "Hepatobacter penaei (Inf. with)(Necrotising hepatopancreatitis)(2011-)"
+    },
+    {
+      "ids": [
+        410
+      ],
+      "name": "Western equine encephalitis virus (Inf. with) (Western equine encephalomyelitis) (2006-)"
+    },
+    {
+      "ids": [
+        739
+      ],
+      "name": "White spot syndrome virus (Inf. with)"
+    },
+    {
+      "ids": [
+        839
+      ],
+      "name": "Scrapie "
+    },
+    {
+      "ids": [
+        875
+      ],
+      "name": "Viral haemorrhagic septicaemia virus (Inf. with)"
+    },
+    {
+      "ids": [
+        864
+      ],
+      "name": "Tularemia "
+    },
+    {
+      "ids": [
+        120
+      ],
+      "name": "Duck virus hepatitis "
+    },
+    {
+      "ids": [
+        108
+      ],
+      "name": "Taylorella equigenitalis (Inf. with) (Contagious equine metritis)"
+    },
+    {
+      "ids": [
+        685
+      ],
+      "name": "Batrachochytrium salamandrivorans (Inf. with)(2014-)"
+    },
+    {
+      "ids": [
+        725
+      ],
+      "name": "Perkinsus marinus (Inf. with)"
+    },
+    {
+      "ids": [
+        86
+      ],
+      "name": "Bovine anaplasmosis "
+    },
+    {
+      "ids": [
+        781
+      ],
+      "name": "Mycoplasma gallisepticum (Inf. with)\u00a0(Avian mycoplasmosis)"
+    },
+    {
+      "ids": [
+        784
+      ],
+      "name": "Nairobi sheep disease "
+    },
+    {
+      "ids": [
+        841
+      ],
+      "name": "Sheep pox and goat pox "
+    },
+    {
+      "ids": [
+        113
+      ],
+      "name": "Crimean Congo haemorrhagic fever (2006-)"
+    },
+    {
+      "ids": [
+        824
+      ],
+      "name": "Pathogenic rabbit lagoviruses (Inf. with) (Rabbit haemorrhagic disease)"
+    },
+    {
+      "ids": [
+        748
+      ],
+      "name": "Infectious salmon anaemia virus (Inf. with) (HPR-deleted or HPR0 genotypes)"
+    },
+    {
+      "ids": [
+        687
+      ],
+      "name": "Bonamia exitiosa (Inf. with)"
+    },
+    {
+      "ids": [
+        832
+      ],
+      "name": "Rinderpest virus (Inf. with) "
+    },
+    {
+      "ids": [
+        721
+      ],
+      "name": "Mycobacterium tuberculosis complex (Inf. with)(2019-)"
+    },
+    {
+      "ids": [
+        761
+      ],
+      "name": "Koi herpesvirus (Inf. with)"
+    },
+    {
+      "ids": [
+        105
+      ],
+      "name": "Mycoplasma mycoides subsp. mycoides (Inf. with) (Contagious bovine pleuropneumonia)"
+    },
+    {
+      "ids": [
+        734
+      ],
+      "name": "Salmonid alphavirus (Inf. with)(2014-)"
+    },
+    {
+      "ids": [
+        823
+      ],
+      "name": "Coxiella burnetii (Inf. with) (Q fever)"
+    },
+    {
+      "ids": [
+        834
+      ],
+      "name": "Salmonellosis (S. abortusovis) "
+    },
+    {
+      "ids": [
+        678
+      ],
+      "name": "Infectious bovine rhinotracheitis/infectious pustular vulvovaginitis "
+    },
+    {
+      "ids": [
+        731
+      ],
+      "name": "Ranavirus (Inf. with)(2009-)"
+    },
+    {
+      "ids": [
+        877
+      ],
+      "name": "West Nile Fever "
+    },
+    {
+      "ids": [
+        414
+      ],
+      "name": "Chlamydia abortus (Inf. with) (Enzootic abortion of ewes, ovine chlamydiosis) "
+    },
+    {
+      "ids": [
+        711
+      ],
+      "name": "Marteilia refringens (Inf. with)"
+    },
+    {
+      "ids": [
+        855
+      ],
+      "name": "Transmissible gastroenteritis "
+    },
+    {
+      "ids": [
+        87
+      ],
+      "name": "Bovine babesiosis "
+    },
+    {
+      "ids": [
+        71
+      ],
+      "name": "Mycoplasma synoviae (Inf. with) (Avian mycoplasmosis) (2006-)"
+    },
+    {
+      "ids": [
+        68
+      ],
+      "name": "Avian infectious laryngotracheitis "
+    },
+    {
+      "ids": [
+        870
+      ],
+      "name": "Varroa spp. (Inf. of honey bees with) (Varroosis) "
+    },
+    {
+      "ids": [
+        112
+      ],
+      "name": "Aphanomyces astaci (Inf. with)(Crayfish plague) "
+    },
+    {
+      "ids": [
+        85
+      ],
+      "name": "Bovine genital campylobacteriosis "
+    },
+    {
+      "ids": [
+        416
+      ],
+      "name": "Epizootic haematopoietic necrosis virus (Inf. with)"
+    },
+    {
+      "ids": [
+        770
+      ],
+      "name": "Maedi-visna "
+    },
+    {
+      "ids": [
+        91
+      ],
+      "name": "Bovine pestiviruses (Inf. with) (Bovine viral diarrhoea)"
+    },
+    {
+      "ids": [
+        746
+      ],
+      "name": "Infectious myonecrosis virus (Inf. with)(2008-)"
+    },
+    {
+      "ids": [
+        887
+      ],
+      "name": "Trypanosoma Brucei, T. Congolense, T. Simiae and T. Vivax (Inf. with) (2022-)"
+    },
+    {
+      "ids": [
+        888
+      ],
+      "name": "Low pathogenicity avian influenza viruses transmissible to humans (Inf. with) (2022-)"
+    },
+    {
+      "ids": [
+        115
+      ],
+      "name": "Decapod iridescent virus 1 (Inf. with) (2022-)"
+    },
+    {
+      "ids": [
+        853
+      ],
+      "name": "Tilapia lake virus (Inf. with) (2023-)"
+    },
+    {
+      "ids": [
+        89
+      ],
+      "name": "Bovine spongiform encephalopathy "
+    },
+    {
+      "ids": [
+        764
+      ],
+      "name": "Leishmania spp. (Inf. with) (Leishmaniosis)"
+    },
+    {
+      "ids": [
+        425
+      ],
+      "name": "Equine influenza virus (Inf. with)"
+    },
+    {
+      "ids": [
+        915
+      ],
+      "name": "Theileria lestoquardi, Theileria luwenshuni and Theileria uilenbergi (Inf. with) (2024-)"
+    },
+    {
+      "ids": [
+        94
+      ],
+      "name": "Camelpox virus (inf. with)"
+    },
+    {
+      "ids": [
+        777
+      ],
+      "name": "Middle East respiratory syndrome coronavirus (inf. with) (2022-)"
+    },
+    {
+      "ids": [
+        922
+      ],
+      "name": "Avian influenza A viruses of high pathogenicity (Inf. with) (bovines [Bos taurus]) (2025-)"
+    },
+    {
+      "ids": [
+        790
+      ],
+      "name": "Nipah virus (Inf. with)"
+    },
+    {
+      "ids": [
+        422
+      ],
+      "name": "Eastern equine encephalitis virus (Inf. with) (Eastern equine encephalomyelitis) (2006-)"
+    }
+  ],
+  "diseaseType": [
+    {
+      "ids": [
+        1
+      ],
+      "name": "10"
+    },
+    {
+      "ids": [
+        2
+      ],
+      "name": "11"
+    },
+    {
+      "ids": [
+        3
+      ],
+      "name": "12"
+    },
+    {
+      "ids": [
+        4
+      ],
+      "name": "13"
+    },
+    {
+      "ids": [
+        5
+      ],
+      "name": "14"
+    },
+    {
+      "ids": [
+        6
+      ],
+      "name": "15"
+    },
+    {
+      "ids": [
+        7
+      ],
+      "name": "16"
+    },
+    {
+      "ids": [
+        8
+      ],
+      "name": "17"
+    },
+    {
+      "ids": [
+        9
+      ],
+      "name": "18"
+    },
+    {
+      "ids": [
+        10
+      ],
+      "name": "19"
+    },
+    {
+      "ids": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "name": "1"
+    },
+    {
+      "ids": [
+        16
+      ],
+      "name": "20"
+    },
+    {
+      "ids": [
+        17
+      ],
+      "name": "21"
+    },
+    {
+      "ids": [
+        18
+      ],
+      "name": "22"
+    },
+    {
+      "ids": [
+        19
+      ],
+      "name": "23"
+    },
+    {
+      "ids": [
+        20
+      ],
+      "name": "24"
+    },
+    {
+      "ids": [
+        21
+      ],
+      "name": "25"
+    },
+    {
+      "ids": [
+        22
+      ],
+      "name": "26"
+    },
+    {
+      "ids": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "name": "2"
+    },
+    {
+      "ids": [
+        28,
+        29,
+        30
+      ],
+      "name": "3"
+    },
+    {
+      "ids": [
+        31,
+        32,
+        33
+      ],
+      "name": "4"
+    },
+    {
+      "ids": [
+        34,
+        35,
+        36
+      ],
+      "name": "5"
+    },
+    {
+      "ids": [
+        37,
+        39,
+        41
+      ],
+      "name": "6"
+    },
+    {
+      "ids": [
+        38
+      ],
+      "name": "6:B"
+    },
+    {
+      "ids": [
+        40
+      ],
+      "name": "6:E"
+    },
+    {
+      "ids": [
+        42,
+        43,
+        44
+      ],
+      "name": "7"
+    },
+    {
+      "ids": [
+        45,
+        46,
+        914
+      ],
+      "name": "8"
+    },
+    {
+      "ids": [
+        47,
+        48
+      ],
+      "name": "9"
+    },
+    {
+      "ids": [
+        53
+      ],
+      "name": "A"
+    },
+    {
+      "ids": [
+        62
+      ],
+      "name": "Asia 1"
+    },
+    {
+      "ids": [
+        99
+      ],
+      "name": "C"
+    },
+    {
+      "ids": [
+        541,
+        909
+      ],
+      "name": "H3N8"
+    },
+    {
+      "ids": [
+        553,
+        554
+      ],
+      "name": "H5 (N untyped)"
+    },
+    {
+      "ids": [
+        555
+      ],
+      "name": "H5"
+    },
+    {
+      "ids": [
+        557,
+        558,
+        559,
+        889,
+        923
+      ],
+      "name": "H5N1"
+    },
+    {
+      "ids": [
+        561,
+        562,
+        563
+      ],
+      "name": "H5N2"
+    },
+    {
+      "ids": [
+        565,
+        566,
+        567
+      ],
+      "name": "H5N3"
+    },
+    {
+      "ids": [
+        569,
+        570,
+        571
+      ],
+      "name": "H5N4"
+    },
+    {
+      "ids": [
+        573,
+        574,
+        575
+      ],
+      "name": "H5N5"
+    },
+    {
+      "ids": [
+        577,
+        578,
+        579,
+        891
+      ],
+      "name": "H5N6"
+    },
+    {
+      "ids": [
+        581,
+        582,
+        583
+      ],
+      "name": "H5N7"
+    },
+    {
+      "ids": [
+        585,
+        586,
+        587
+      ],
+      "name": "H5N8"
+    },
+    {
+      "ids": [
+        589,
+        590,
+        591
+      ],
+      "name": "H5N9"
+    },
+    {
+      "ids": [
+        603,
+        604
+      ],
+      "name": "H7 (N untyped)"
+    },
+    {
+      "ids": [
+        605
+      ],
+      "name": "H7"
+    },
+    {
+      "ids": [
+        607,
+        608,
+        609
+      ],
+      "name": "H7N1"
+    },
+    {
+      "ids": [
+        611,
+        612,
+        613
+      ],
+      "name": "H7N2"
+    },
+    {
+      "ids": [
+        615,
+        616,
+        617
+      ],
+      "name": "H7N3"
+    },
+    {
+      "ids": [
+        619,
+        620,
+        621,
+        907
+      ],
+      "name": "H7N4"
+    },
+    {
+      "ids": [
+        623,
+        624,
+        625
+      ],
+      "name": "H7N5"
+    },
+    {
+      "ids": [
+        627,
+        628,
+        629
+      ],
+      "name": "H7N6"
+    },
+    {
+      "ids": [
+        631,
+        632,
+        633,
+        892
+      ],
+      "name": "H7N7"
+    },
+    {
+      "ids": [
+        635,
+        636,
+        637,
+        638
+      ],
+      "name": "H7N8"
+    },
+    {
+      "ids": [
+        640,
+        641,
+        642,
+        890
+      ],
+      "name": "H7N9"
+    },
+    {
+      "ids": [
+        672
+      ],
+      "name": "HPR0"
+    },
+    {
+      "ids": [
+        673
+      ],
+      "name": "HPR-deleted"
+    },
+    {
+      "ids": [
+        677
+      ],
+      "name": "Indiana"
+    },
+    {
+      "ids": [
+        789
+      ],
+      "name": "New Jersey"
+    },
+    {
+      "ids": [
+        793
+      ],
+      "name": "O"
+    },
+    {
+      "ids": [
+        807
+      ],
+      "name": "PEV-12"
+    },
+    {
+      "ids": [
+        808
+      ],
+      "name": "PEV-13"
+    },
+    {
+      "ids": [
+        809
+      ],
+      "name": "PEV-1"
+    },
+    {
+      "ids": [
+        810
+      ],
+      "name": "PEV-2"
+    },
+    {
+      "ids": [
+        811
+      ],
+      "name": "PEV-3"
+    },
+    {
+      "ids": [
+        812
+      ],
+      "name": "PEV-4"
+    },
+    {
+      "ids": [
+        813
+      ],
+      "name": "PEV-5"
+    },
+    {
+      "ids": [
+        814
+      ],
+      "name": "PEV-6"
+    },
+    {
+      "ids": [
+        815
+      ],
+      "name": "PEV-8"
+    },
+    {
+      "ids": [
+        826
+      ],
+      "name": "RABV"
+    },
+    {
+      "ids": [
+        828
+      ],
+      "name": "RHDV2"
+    },
+    {
+      "ids": [
+        829
+      ],
+      "name": "RHDVa"
+    },
+    {
+      "ids": [
+        830
+      ],
+      "name": "RHDV"
+    },
+    {
+      "ids": [
+        836
+      ],
+      "name": "SAT 1"
+    },
+    {
+      "ids": [
+        837
+      ],
+      "name": "SAT 2"
+    },
+    {
+      "ids": [
+        838
+      ],
+      "name": "SAT 3"
+    },
+    {
+      "ids": [
+        893
+      ],
+      "name": "H9N2"
+    },
+    {
+      "ids": [
+        908
+      ],
+      "name": "H10N3"
+    },
+    {
+      "ids": [
+        917
+      ],
+      "name": "Red sea bream iridovirus (RSIV)"
+    },
+    {
+      "ids": [
+        918
+      ],
+      "name": "Infectious spleen and kidney necrosis virus (ISKNV)"
+    },
+    {
+      "ids": [
+        919
+      ],
+      "name": "Turbot reddish body iridovirus (TRBIV)"
+    }
+  ],
+  "reason": [
+    {
+      "id": 278,
+      "keyValue": "First occ in country",
+      "translation": "First occurrence in the country",
+      "description": null
+    },
+    {
+      "id": 279,
+      "keyValue": "First occ in zone",
+      "translation": "First occurrence in a zone or a compartment",
+      "description": null
+    },
+    {
+      "id": 280,
+      "keyValue": "reccurence disease",
+      "translation": "Recurrence of an eradicated disease",
+      "description": null
+    },
+    {
+      "id": 631,
+      "keyValue": "recurrence strain",
+      "translation": "Recurrence of an eradicated strain",
+      "description": null
+    },
+    {
+      "id": 281,
+      "keyValue": "New strain in countr",
+      "translation": "New strain in the country",
+      "description": null
+    },
+    {
+      "id": 282,
+      "keyValue": "New strain in zone",
+      "translation": "New strain in a zone or a compartment",
+      "description": null
+    },
+    {
+      "id": 283,
+      "keyValue": "unusual/new host",
+      "translation": "Unusual host species",
+      "description": null
+    },
+    {
+      "id": 293,
+      "keyValue": "Emerging disease",
+      "translation": "Emerging disease",
+      "description": null
+    },
+    {
+      "id": 297,
+      "keyValue": "Unexpected change",
+      "translation": "Unexpected change or increase",
+      "description": null
+    }
+  ],
+  "eventStatus": [
+    {
+      "id": 136,
+      "keyValue": "ongoing",
+      "translation": "On-going",
+      "description": null
+    },
+    {
+      "id": 137,
+      "keyValue": "resolved",
+      "translation": "Resolved",
+      "description": null
+    },
+    {
+      "id": 138,
+      "keyValue": "stable",
+      "translation": "Stable",
+      "description": null
+    }
+  ],
+  "reportStatus": [
+    {
+      "id": 284,
+      "keyValue": "Draft",
+      "translation": "Draft",
+      "description": null
+    },
+    {
+      "id": 285,
+      "keyValue": "Submitted",
+      "translation": "Submitted",
+      "description": null
+    },
+    {
+      "id": 287,
+      "keyValue": "Validated",
+      "translation": "Validated",
+      "description": null
+    },
+    {
+      "id": 288,
+      "keyValue": "Edited after validation",
+      "translation": "Edited after validation",
+      "description": null
+    },
+    {
+      "id": 289,
+      "keyValue": "Submitted to admin",
+      "translation": "Submitted to administrator",
+      "description": null
+    },
+    {
+      "id": 290,
+      "keyValue": "Clarification",
+      "translation": "Clarification",
+      "description": null
+    },
+    {
+      "id": 292,
+      "keyValue": "Deleted",
+      "translation": "Deleted",
+      "description": null
+    }
+  ]
+}
