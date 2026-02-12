@@ -1,4 +1,5 @@
 curl_cffi
+geopandas
 openpyxl
 pandas
 tqdm
