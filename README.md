@@ -17,10 +17,8 @@ Automatically download publicly available animal disease reports from the World 
 The WAHIS platform underwent a major API overhaul. This fork has been fully reworked to restore functionality and add new features:
 
 - **New API integration** — migrated from the legacy `/pi/` endpoints to the new `/api/v1/pi/` REST API, including updated headers, payload formats, and pagination
-- **Cloudflare bypass** — uses `curl_cffi` with browser TLS fingerprint impersonation to avoid bot detection
 - **Name-to-ID resolution** — translates human-readable country, disease, and region names into the numeric IDs the new API expects
 - **Outbreak animation** — new `build_animation.py` script generates a lightweight, interactive Leaflet.js map that animates outbreak spread day-by-day in the browser
-- **Streamlit dashboard** (optional) — `app_outbreaks.py` provides an interactive Streamlit app with play/pause controls and disease filters
 
 ---
 
@@ -29,8 +27,8 @@ The WAHIS platform underwent a major API overhaul. This fork has been fully rewo
 ```
 wahis/
 ├── report_retriever.py      # Main script: download WAHIS reports to Excel/CSV
+├── patch_nuts2.py           # Add NUTS region codes (levels 0–3) to downloaded data
 ├── build_animation.py       # Generate animated HTML map from downloaded data
-├── app_outbreaks.py         # (Optional) Streamlit dashboard for interactive viewing
 ├── plot_outbreaks.py        # (Optional) Plotly-based static animation builder
 ├── plot_outbreaks_europe.py # (Optional) Plotly Europe-focused animation builder
 ├── requirements.txt         # Python dependencies
@@ -83,7 +81,26 @@ python report_retriever.py -d "African swine fever virus (Inf. with) " "Foot and
 
 Data is saved as Excel spreadsheets in `OUTPUTS/WAHIS_ReportOutbreaks_*.xlsx` (one file per ~250 reports).
 
-### 4. Generate animated map
+### 4. Add NUTS region codes (optional)
+
+Enrich the downloaded data with [Eurostat NUTS](https://ec.europa.eu/eurostat/web/nuts) region codes at all four levels by running a spatial lookup on each outbreak's coordinates:
+
+```bash
+python patch_nuts2.py
+```
+
+This adds the following columns to the existing Excel files:
+
+| Columns | Level | Example |
+|---|---|---|
+| `nuts0_id`, `nuts0_name` | Country | FR, France |
+| `nuts1_id`, `nuts1_name` | Major region | FR1, Ile-de-France |
+| `nuts2_id`, `nuts2_name` | Region | FR10, Ile-de-France |
+| `nuts3_id`, `nuts3_name` | Small region | FR101, Paris |
+
+The official NUTS GeoJSON boundaries are downloaded from Eurostat on first run and cached locally.
+
+### 5. Generate animated map
 
 After downloading data, build an interactive outbreak animation:
 
@@ -99,15 +116,6 @@ This creates `OUTPUTS/outbreak_animation_europe.html` — a self-contained ~0.6 
 - **Cumulative display** — outbreaks appear on start date and disappear when end date passes
 - **Hover popups** with location, country, disease, and dates
 - **Colour-coded** by disease with a legend
-
-### 5. (Optional) Streamlit dashboard
-
-For an interactive dashboard with real-time disease filtering:
-
-```bash
-pip install streamlit
-streamlit run app_outbreaks.py
-```
 
 ---
 
@@ -129,7 +137,8 @@ streamlit run app_outbreaks.py
 ## Dependencies
 
 ```
-curl_cffi        # HTTP client with browser TLS fingerprint impersonation
+curl_cffi        # HTTP client
+geopandas        # Spatial join for NUTS lookup (patch_nuts2.py)
 openpyxl         # Excel file writing
 pandas           # Data manipulation
 tqdm             # Progress bars
@@ -139,7 +148,6 @@ Optional (for visualisation):
 
 ```
 plotly           # Plotly-based maps (plot_outbreaks.py)
-streamlit        # Interactive dashboard (app_outbreaks.py)
 ```
 
 ---
@@ -155,7 +163,7 @@ The script communicates with the WAHIS API at `https://wahis.woah.org/api/v1/pi/
 - `GET /pi/country/list` — list all countries with IDs
 - `GET /pi/disease/first-level-filters` — list all diseases with IDs
 
-The API requires specific headers including `token`, `clientId`, and `env` fields. The script uses `curl_cffi` with Chrome TLS fingerprint impersonation to pass Cloudflare bot detection.
+The API requires specific headers including `token`, `clientId`, and `env` fields.
 
 ### Pagination
 
@@ -165,8 +173,8 @@ The filtered-list endpoint has a maximum `pageSize` of 2000. The script automati
 
 ## Credits
 
-- Original author: [Loic Leray](https://loicleray.com) — reverse-engineered the original WAHIS API and built the report retriever
-- Updated by: [modlit](https://github.com/modlit) — migrated to the new WAHIS v1 API, added Cloudflare bypass, outbreak animation, and Streamlit dashboard (2026)
+- Original author: [Loic Leray](https://loicleray.com) — built the original WAHIS report retriever
+- Updated by: [modlit](https://github.com/modlit) — migrated to the new WAHIS v1 API, added outbreak animation (2026)
 
 ---
 
